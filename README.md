@@ -1,6 +1,6 @@
 # Traffic Prioritization with Ryu in Mininet
 
-This project demonstrates a Software-Defined Networking (SDN) implementation to prioritize network traffic based on application type. Using the **Ryu controller** and the **Mininet network emulator**, the system differentiates between high-priority **video traffic** and low-priority **file transfers**, ensuring a better Quality of Service (QoS) for real-time video streams.
+This project demonstrates a Software-Defined Networking (SDN) implementation to prioritize network traffic based on application type. Using the Ryu controller and the Mininet network emulator, the system differentiates between high-priority video traffic and low-priority file transfers, ensuring a better Quality of Service (QoS) for real-time video streams.
 
 ---
 
