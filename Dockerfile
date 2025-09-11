@@ -9,7 +9,8 @@ RUN apt-get update && apt-get install -y \
     iputils-ping \
     iperf \
     net-tools \
-    iproute2
+    iproute2 \
+    traceroute
 
 RUN pip3 install eventlet==0.30.2
 
